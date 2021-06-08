@@ -9,7 +9,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradley-r&theme=dark&hide=javascript&custom_title=BradleyR's%20Most%20Used%20Languages&card_width=465" alt="BradleyR's Most Used Languages" /> 
 </p>
-<p align="center"><i>JS excluded as any use is a reimplementation of existing works.</i></p>
+<p align="center"><i>JavaScript excluded as any use is a reimplementation of existing works.</i></p>
 <hr>
 
 <h5 align="center">My history with Linux:</h5>
