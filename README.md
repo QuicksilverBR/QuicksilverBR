@@ -15,24 +15,24 @@
 <h5 align="center">My history with Linux:</h5>
 <p align="center">
 <a href="https://ubuntu.com/">
-  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_ubuntu.png"  width="50" height="50" hspace=40/>
+  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_ubuntu.png"  width="50" height="50" hspace=30/>
 </a>
 <a href="https://linuxmint.com/">
-  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_linuxmint_alt.png" width="50" height="50" hspace=40/>
+  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_linuxmint_alt.png" width="50" height="50" hspace=30/>
 </a>
  <a href="https://getfedora.org/">
-  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_fedora.png"  width="50" height="50" hspace=40/>
+  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_fedora.png"  width="50" height="50" hspace=30/>
 </a>
 <a href="https://www.opensuse.org/">
-  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_opensuse.png" width="50" height="50" hspace=40/>
+  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_opensuse.png" width="50" height="50" hspace=30/>
 </a>
 <a href="https://voidlinux.org/">
-  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_void.png" width="50" height="50" hspace=40/>
+  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_void.png" width="50" height="50" hspace=30/>
 </a>
  <a href="https://getsol.us/home/">
-  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_solus.png"  width="50" height="50" hspace=40/>
+  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_solus.png"  width="50" height="50" hspace=30/>
 </a>
 <a href="https://endeavouros.com/">
-  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_endeavouros.png" width="50" height="50" hspace=40/>
+  <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_endeavouros.png" width="50" height="50" hspace=30/>
   </a>
 </p>
