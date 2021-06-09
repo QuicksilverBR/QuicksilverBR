@@ -35,4 +35,4 @@
   </a>
 </p>
 <hr>
-<p align="center" style="font-size:5px">This README is intended to be viewed in GitHub's/a local dark display mode.</p>
+<p align="center">This README is intended to be viewed in GitHub's/a local dark display mode.</p>
