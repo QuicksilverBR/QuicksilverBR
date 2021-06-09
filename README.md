@@ -1,5 +1,3 @@
-<link href="//cdn.jsdelivr.net/gh/Lukas-W/font-logos@v0.17/assets/font-logos.css" rel="stylesheet">
-
 <h1 align="center">Greetings. You've reached BradleyR's GitHub profile.</h1>
 <h5 align="center">I'm a dedicated privacy enthusiast, in both the physical and digital domains. I have hobbies across technology, principally Linux (and related FOSS initiatives) and flight simulation. I specialise in Linux, Unix and (sparingly) Windows system design, installation, administration and support, with working proficiencies in  Python, web (HTML & CSS) and .NET languages. </h5>
 
@@ -36,3 +34,5 @@
   <img align="center" src="https://raw.githubusercontent.com/bradley-r/bradley-r/main/icons/os_endeavouros.png" width="50" height="50" hspace=30/>
   </a>
 </p>
+<hr>
+<p align="center" style="font-size:5px">This README is intended to be viewed in GitHub's/a local dark display mode.</p>
