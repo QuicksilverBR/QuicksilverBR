@@ -8,8 +8,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradley-r&theme=dark&hide=javascript&custom_title=BradleyR's%20Most%20Used%20Languages&card_width=465" alt="BradleyR's Most Used Languages" /> 
 </p>
 <p align="center"><i>JavaScript excluded as any use is a reimplementation of existing works.</i></p>
+<p align="center"><b>Please note this profile may go inactive at short notice; personal desire for a more open, <a href="https://github.com/drop-ice/dear-github-2.0">more respectable</a> platform may have my contributions focused elsewhere. Issues with and contributions to current projects will be maintained.</b></p>
 <hr>
-
 <h5 align="center">My history with Linux:</h5>
 <p align="center">
 <a href="https://ubuntu.com/">
