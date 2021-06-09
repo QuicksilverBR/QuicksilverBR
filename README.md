@@ -1,5 +1,5 @@
 <h1 align="center">Greetings. You've reached BradleyR's GitHub profile.</h1>
-<h5 align="center">I'm a dedicated privacy enthusiast, in both the physical and digital domains. I have hobbies across technology, principally Linux (and related FOSS initiatives) and flight simulation. I specialise in Linux, Unix and (sparingly) Windows system design, installation, administration and support, with working proficiencies in  Python, web (HTML & CSS) and .NET languages. </h5>
+<p align="center"><b>I'm a dedicated privacy enthusiast, in both the physical and digital domains. I have hobbies across technology, principally Linux (and related FOSS initiatives) and flight simulation. I specialise in Linux, Unix and (sparingly) Windows system design, installation, administration and support, with working proficiencies in  Python, web (HTML & CSS) and .NET languages. </b></p>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bradley-r&show_icons=true&count_private=true&custom_title=BradleyR's%20Github%20Statistics&theme=dark&include_all_commits=true&icon_color=ffffff" alt="BradleyR's Github Statistics" />
