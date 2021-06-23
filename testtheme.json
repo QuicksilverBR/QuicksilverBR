@@ -6,14 +6,14 @@
         "primary-color": "#dcdcde",
         "warning-color": "#f2777a",
 
-        "sidebar-color": "#6e6e70",
+        "sidebar-color": "#323234",
         "roomlist-background-color": "#323234",
         "roomlist-text-color": "#dcdcde",
         "roomlist-text-secondary-color": "#bebec0",
         "roomlist-highlights-color": "#3b3b3b",
         "roomlist-separator-color": "#121212",
 
-        "timeline-background-color": "#6e6e70",
+        "timeline-background-color": "#323234",
         "timeline-text-color": "#dcdcde",
         "timeline-text-secondary-color": "#bebec0",
         "timeline-highlights-color": "#323234",
