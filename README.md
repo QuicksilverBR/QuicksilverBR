@@ -1,11 +1,11 @@
-<h1 align="center">Greetings. You've reached BradleyR's GitHub profile.</h1>
-<p align="center"><b>I'm a dedicated privacy enthusiast, in both the physical and digital domains. I have hobbies across technology, principally Linux (and related FOSS initiatives) and flight simulation. I specialise in Linux, Unix and (sparingly) Windows system design, installation, administration and support, with working proficiencies in  Python, web (HTML & CSS) and .NET languages. </b></p>
+<h1 align="center">Greetings. You've reached Quicksilver's GitHub profile.</h1>
+<p align="center"><b>I'm a dedicated privacy advocate, in both the physical and digital domains. I have hobbies across technology, principally Linux (and related FOSS initiatives) and flight simulation. I specialise in Linux, Unix and (sparingly) Windows system design, installation, administration and support, with working proficiencies in  Python, web (HTML & CSS) and .NET languages. </b></p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bradley-r&show_icons=true&count_private=true&custom_title=BradleyR's%20Github%20Statistics&theme=dark&include_all_commits=true&icon_color=ffffff" alt="BradleyR's Github Statistics" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=QuicksilverBR&show_icons=true&count_private=true&custom_title=Quicksilver's%20Github%20Statistics&theme=dark&include_all_commits=true&icon_color=ffffff" alt="Quicksilver's Github Statistics" />
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradley-r&theme=dark&hide=javascript&custom_title=BradleyR's%20Most%20Used%20Languages&card_width=465" alt="BradleyR's Most Used Languages" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuicksilverBR&theme=dark&hide=javascript&custom_title=Quicksilver's%20Most%20Used%20Languages&card_width=465" alt="Quicksilver's Most Used Languages" /> 
 </p>
 <p align="center"><i>JavaScript excluded as any use is a reimplementation of existing works.</i></p>
 <p align="center"><b>Please note this profile may become inactive at short notice; personal desire for a more open, <a href="https://github.com/drop-ice/dear-github-2.0">more respectable</a> platform may have my contributions focused elsewhere. Issues with and contributions to current projects will be maintained.</b></p>
