@@ -4,10 +4,10 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuicksilverBR&show_icons=true&count_private=true&custom_title=Quicksilver's%20Github%20Statistics&theme=dark&include_all_commits=true&icon_color=ffffff" alt="Quicksilver's Github Statistics" />
 </p>
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuicksilverBR&theme=dark&hide=javascript&custom_title=Quicksilver's%20Most%20Used%20Languages&card_width=465" alt="Quicksilver's Most Used Languages" /> 
-</p>
-<p align="center"><i>JavaScript excluded as any use is a reimplementation of existing works.</i></p>
+</p> 
+<p align="center"><i>JavaScript excluded as any use is a reimplementation of existing works.</i></p> -->
 <p align="center"><b>Please note this profile may become inactive at short notice; personal desire for a more open, <a href="https://github.com/drop-ice/dear-github-2.0">more respectable</a> platform may have my contributions focused elsewhere. Issues with and contributions to current projects will be maintained.</b></p>
 <hr>
 <h5 align="center">My history with Linux:</h5>
