@@ -1,5 +1,5 @@
 <h1 align="center">Greetings. You've reached Quicksilver's GitHub profile.</h1>
-<p align="center"><b>I'm a dedicated privacy advocate, in both the physical and digital domains. I have hobbies across technology, principally Linux (and related FOSS initiatives) and flight simulation. I specialise in Linux, Unix and (sparingly) Windows system design, installation, administration and support, with working proficiencies in  Python, web (HTML & CSS) and .NET languages. </b></p>
+<p align="center"><b>I'm a dedicated privacy advocate, in both the physical and digital domains. I have hobbies across technology, principally Linux (and related FOSS initiatives) and flight simulation. I specialise in Linux, other-Unix and (sparingly) Windows system design, installation, administration and support, with working proficiencies in  Python, web (HTML & CSS) and .NET languages. </b></p>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuicksilverBR&show_icons=true&count_private=true&custom_title=Quicksilver's%20Github%20Statistics&theme=dark&include_all_commits=true&icon_color=ffffff" alt="Quicksilver's Github Statistics" />
